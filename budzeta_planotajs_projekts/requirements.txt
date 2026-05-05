@@ -1,0 +1,1 @@
+# Ārējas bibliotēkas nav nepieciešamas.
